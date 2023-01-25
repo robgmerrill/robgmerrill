@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @robgmerrill
-- 👀 I’m interested in new front end role opportunities
-- 🌱 I’m currently learning all things React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development and instruction.
 
 <!---
 robgmerrill/robgmerrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
